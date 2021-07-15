@@ -1,1 +1,3 @@
-# prototyping-pcbs
+# Various PCBs for prototyping different components
+#
+
